@@ -9,3 +9,6 @@ La idea del proyecto es agregarle seguridad a una aplicacion de tablero de dubuj
 En este momento todos los usuarios pueden conectarse usando:
 - user: "user"
 - contraseña: "password"
+
+
+La app en heroku: https://blackboard-withsecurity.herokuapp.com/
