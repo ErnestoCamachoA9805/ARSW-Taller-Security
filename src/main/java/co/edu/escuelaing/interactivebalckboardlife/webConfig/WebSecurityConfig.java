@@ -1,4 +1,4 @@
-package co.edu.escuelaing.interactivebalckboardlife.security;
+package co.edu.escuelaing.interactivebalckboardlife.webConfig;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
